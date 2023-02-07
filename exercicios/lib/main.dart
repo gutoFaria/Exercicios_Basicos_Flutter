@@ -4,7 +4,8 @@
 //import 'package:exercicios/exercicios/exer4.dart';
 //import 'package:exercicios/exercicios/exer5.dart';
 //import 'package:exercicios/exercicios/exer6.dart';
-import 'package:exercicios/BizCard/biz_card.dart';
+//import 'package:exercicios/BizCard/biz_card.dart';
+
 import 'package:exercicios/TipCalculator/tip_calculator.dart';
 //import 'package:exercicios/exercicios/exer7.dart';
 import 'package:flutter/material.dart';
@@ -35,6 +36,7 @@ class MyApp extends StatelessWidget {
         //const Exer7()
         //const BizCard()
         const TipCalculator()
+        
     );
   }
 }
